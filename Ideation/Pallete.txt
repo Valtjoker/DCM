@@ -1,0 +1,6 @@
+Used colors:
+
+#eb2026 Red
+#333333 Black
+#ffffff White
+#FFEA00 Yellow

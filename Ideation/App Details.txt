@@ -1,0 +1,17 @@
+DCM (Dungeon Character Manager)
+
+A website to manage dungeon and dragons character
+
+Usage:
+- Create DND character (manual and automatic)
+- Generate DND character sheet for users to download
+- Manage changes on DND character (Battle, Level up, events in dnd)
+- Provide information about dnd 5e
+
+Tech stack:
+
+Back-end: 
+Node.js, Expressjs, REST API, postgresql, sequelize, MongoDB, Mongoose, GraphQL, midtrans, AnvilPDF, DND5eAPI
+
+Front-end:
+Vue.js, TailwindCSS, Railways, Figma
